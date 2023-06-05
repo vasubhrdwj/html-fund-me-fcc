@@ -15,7 +15,7 @@ yarn hardhat node
 ```
 
 
-Extreme Gratitude to Patrick collins for imparting the best knowledge for developing the Project.
+Extreme Gratitude to Patrick Collins for imparting the best knowledge for developing the Project.
 
 
 
