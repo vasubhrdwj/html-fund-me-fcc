@@ -1,0 +1,9 @@
+{
+    "name": "html-fund-me",
+    "author": "Vasu Bhardwaj",
+    "version": "1.0.0",
+    "description": "Created a FundMe App on the FrontEnd",
+    "devDependencies": {
+      "http-server": "^14.1.0"
+    }
+  }
